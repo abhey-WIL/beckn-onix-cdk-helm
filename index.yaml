@@ -1,0 +1,47 @@
+apiVersion: v1
+entries:
+  beckn-onix-bap:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-20T18:10:51.701925+05:30"
+    description: Beckn ONIX BAP Helm chart for Kubernetes
+    digest: 4c0bfd176f442527f0dfeb7c0f2895ef4f9c0e8eabf27f63cb489262751acd2a
+    name: beckn-onix-bap
+    type: application
+    urls:
+    - beckn-onix-bap-0.1.0.tgz
+    version: 0.1.0
+  beckn-onix-bpp:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-20T18:10:51.702961+05:30"
+    description: Beckn ONIX BPP Helm chart for Kubernetes
+    digest: e35912095f91147890b58584a441f4463935c6a312946b2fbecfb41141c11296
+    name: beckn-onix-bpp
+    type: application
+    urls:
+    - beckn-onix-bpp-0.1.0.tgz
+    version: 0.1.0
+  beckn-onix-gateway:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-20T18:10:51.70333+05:30"
+    description: Beckn ONIX Gateway Helm chart for Kubernetes
+    digest: f41fcffec39753557b706207ed99d1892ce09adb7057862c7b9a6f0be6dd59ca
+    name: beckn-onix-gateway
+    type: application
+    urls:
+    - beckn-onix-gateway-0.1.0.tgz
+    version: 0.1.0
+  beckn-onix-registry:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-20T18:10:51.703867+05:30"
+    description: Beckn ONIX Registry Helm chart for Kubernetes
+    digest: 154548fc12dd69e36a1b0778f2a3f11970da41af5e8f1a359ea700c65aa839bc
+    name: beckn-onix-registry
+    type: application
+    urls:
+    - beckn-onix-registry-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-20T18:10:51.700775+05:30"
